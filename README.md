@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=812347817602842624)
+![My Discord](https://discord-readme-badge.vercel.app/api?id=1126463762438819941)
 
